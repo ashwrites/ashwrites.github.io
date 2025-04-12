@@ -1,0 +1,6 @@
+title: A Manual for the Unmanageable
+description: Instructions for Minds That Still Function
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
