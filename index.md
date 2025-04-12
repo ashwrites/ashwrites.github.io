@@ -17,3 +17,18 @@ title: A Manual for the Unmanageable
 This isn’t marketing.  
 It’s documentation for the post-collapse mind.  
 Coming soon.
+
+---
+
+### 🔗 Links
+
+- 📧 [Email Ash](mailto:collapseproof@protonmail.com)
+- 📄 [Read Sample Chapter (PDF)](/assets/sample.pdf) *(coming soon)*
+- 🧵 [Follow on X](https://x.com/ashwrites) *(pending)*
+- 🗞️ [Subscribe on Substack](https://ash.substack.com) *(pending)*
+
+---
+
+<footer style="text-align:center; font-size: 0.9em; margin-top: 3em; color: #777;">
+Site by Ash. Signal will strengthen. Expected transmission: May 2025.
+</footer>
