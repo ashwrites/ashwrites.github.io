@@ -22,9 +22,9 @@ Coming soon.
 
 ### 🔗 Links
 
-- 📧 [Email Ash](mailto:collapseproof@protonmail.com)
+- 📧 [Email Ash](mailto:collapseproof@protonmail.com) collapseproof@protonmail.com
 - 📄 [Read Sample Chapter (PDF)](/assets/sample.pdf)
-- 🧵 [Follow on X](https://x.com/ashwrites) *(pending)*
+- 🧵 [Follow on X](https://x.com/AshOrrn) 
 - 🗞️ [Subscribe on Substack](https://ash.substack.com) *(pending)*
 
 ---
