@@ -1,4 +1,4 @@
-# A Manual for the Unmanageable
+# COLLAPSE-PROOFE :: A Manual for the Unmanageable
 
 Instructions for Minds That Still Function.
 
