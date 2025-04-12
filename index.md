@@ -25,7 +25,7 @@ Coming soon.
 - 📧 [Email Ash](mailto:collapseproof@protonmail.com) collapseproof@protonmail.com
 - 📄 [Read Sample Chapter (PDF)](/assets/sample.pdf)
 - 🧵 [Follow on X](https://x.com/AshOrrn) 
-- 🗞️ [Subscribe on Substack](https://ash.substack.com) *(pending)*
+- 🗞️ [Subscribe on Substack](https://substack.com/@ashorrn)
 
 ---
 
